@@ -28,12 +28,12 @@
 <h3 align="center">📊 My Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=dark" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=dark&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=dark" width="94%" />
 </p>
 
 ---
