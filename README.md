@@ -27,9 +27,9 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=tokyonight&hide_forks=true" alt="Top Languages" />
 </div>
 
 <p align="center">
