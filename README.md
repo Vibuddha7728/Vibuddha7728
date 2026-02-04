@@ -10,144 +10,71 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vibuddha7728&theme=monokai&no-frame=true&margin-w=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=vibuddha7728&theme=monokai&no-bg=true&margin-w=15&no-frame=true">
 </p>
 
-<img align="right" width="150px" height="150px"
-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4dzVqZzRyc3BqZzRyc3BqZzRyc3BqZzRyc3BqZzRyc3BqJnB0X2lkPWdpcGh5X3NkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ---
+
+### 🧑‍💻 About Me
 
 - 🧑‍🎓 Undergraduate at **CINEC**
 - 🌱 Currently learning **Full Stack Development & Mobile App Development**
-- 💻 Interested in **Web, Mobile & UI/UX Design**
-- 📫 Reach me at **vibuddha7728@gmail.com**
+- 📫 Reach me at: **vibuddha7728@gmail.com**
+- ⚡ Fun fact: I love building bridges between hardware (Arduino) and software!
 
 ---
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  My GitHub Statistics
-</h3>
+### 📊 My Statistics
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vibuddha7728&theme=dark&show_icons=true&count_private=true" alt="Vibuddha's Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuddha7728&theme=dark&layout=compact" alt="Top Languages" height="150px" />
+</p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vibuddha7728&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vibuddha7728&theme=dark" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuddha7728&theme=dark&layout=compact&langs_count=10" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibuddha7728&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
-  Languages & Tools
-</h3>
-
-<br>
+### 🛠 Languages & Tools
 
 <div align="center">
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="40" height="40"/>&nbsp;
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</a>
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
 
-<a href="https://www.w3schools.com/cs/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-</a>
+<br><br>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</a>
-
-<a href="https://dart.dev/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-</a>
-
-<a href="https://flutter.dev/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-</a>
-
-<a href="https://wordpress.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-</a>
+<br><br>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;
 
 </div>
 
 ---
 
 <h3 align="center">Connect with me</h3>
-
-<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vibuddha-vibodha-1317a6361/" target="_blank">
