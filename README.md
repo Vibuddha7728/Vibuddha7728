@@ -24,33 +24,37 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<table align="center">
-<tr>
-<td align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</td>
-
-<td align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  My Statistics
+</h3>
 
 <br>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vibuddha7728&style=flat-square" alt="Profile Views" />
-</p>
+<table align="center">
+<tr>
 
+<td width="50%" align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark"
+    alt="Vibuddha's GitHub Stats" />
+  <br><br>
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=dark"
+    alt="Vibuddha's GitHub Streak" />
+</td>
+
+<td width="50%" align="center">
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10"
+    alt="Vibuddha's Top Languages" />
+</td>
 
 </tr>
 </table>
-
 
 
 ---
@@ -100,4 +104,4 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <a href="https://www.linkedin.com/in/vibuddha-vibodha-1317a6361/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-</p> errors are fixed and give me the corrected full code
+</p>meke my statics wada karana vidiht hadanna vidihk nd
