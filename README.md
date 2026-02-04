@@ -29,15 +29,13 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   My Statistics
 </h3>
 
-<br>
-
 <p align="center">
-  <!-- Simple stable badges instead of images -->
-  ![Followers](https://img.shields.io/github/followers/Vibuddha7728?style=social)
-  ![Public Repos](https://img.shields.io/github/public-repos/Vibuddha7728?style=for-the-badge)
-  ![Top Language](https://img.shields.io/github/languages/top/Vibuddha7728?style=for-the-badge)
-  ![Stars](https://img.shields.io/github/stars/Vibuddha7728?style=for-the-badge)
+  <img src="https://img.shields.io/github/followers/Vibuddha7728?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/public-repos/Vibuddha7728?style=for-the-badge" alt="Public Repos" />
+  <img src="https://img.shields.io/github/languages/top/Vibuddha7728?style=for-the-badge" alt="Top Language" />
+  <img src="https://img.shields.io/github/stars/Vibuddha7728?style=for-the-badge" alt="Stars" />
 </p>
+
 
 ---
 
