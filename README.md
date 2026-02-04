@@ -32,19 +32,25 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 
 <table align="center">
-<tr border="none">
+<tr>
 
 <td width="50%" align="center">
+  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&theme=dark&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+    src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark"
+    alt="Vibuddha's GitHub Stats" />
   <br><br>
+  <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=Vibuddha7728&theme=dark&hide_border=false&cache_seconds=1800" />
+    src="https://streak-stats.demolab.com?user=Vibuddha7728&theme=dark"
+    alt="Vibuddha's GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
+  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10&cache_seconds=1800"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10"
+    alt="Vibuddha's Top Languages" />
 </td>
 
 </tr>
