@@ -37,19 +37,19 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <td width="50%" align="center">
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=vibuddha7728&show_icons=true&theme=dark"
     alt="Vibuddha's GitHub Stats" />
   <br><br>
   <!-- Streak Stats -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vibuddha7728&theme=dark"
     alt="Vibuddha's GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuddha7728&theme=dark&layout=compact&langs_count=10"
     alt="Vibuddha's Top Languages" />
 </td>
 
