@@ -17,7 +17,9 @@
 
 ---
 
-- 🧑‍🎓 Undergraduate at **CINEC** - 🌱 Learning **Full Stack Development & Mobile App Development** - 📫 How to reach me: **vibuddha7728@gmail.com**
+- 🧑‍🎓 Undergraduate at **CINEC**  
+- 🌱 Learning **Full Stack Development & Mobile App Development**  
+- 📫 How to reach me: **vibuddha7728@gmail.com**
 
 ---
 
@@ -30,13 +32,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=tokyonight&hide_forks=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/Vibuddha7728?label=Followers&style=for-the-badge&color=212121" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Vibuddha7728?label=Total%20Stars&style=for-the-badge&color=212121" alt="Stars">
 </div>
-
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/github/followers/Vibuddha7728?label=Followers&style=for-the-badge&color=212121">
-  <img src="https://img.shields.io/github/stars/Vibuddha7728?label=Total%20Stars&style=for-the-badge&color=212121">
-</p>
 
 ---
 
