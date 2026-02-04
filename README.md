@@ -13,11 +13,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vibuddha7728&theme=monokai&no-bg=true&margin-w=15&no-frame=true">
 </p>
 
-<img align="right" width="150px" height="150px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 ---
 
-- 🧑‍🎓 Undergraduate at **CINEC** - 🌱 Learning **Full Stack Development & Mobile App Development** - 📫 How to reach me: **vibuddha7728@gmail.com**
+- 🧑‍🎓 Undergraduate at **CINEC**  
+- 🌱 Learning **Full Stack Development & Mobile App Development**  
+- 📫 How to reach me: **vibuddha7728@gmail.com**
 
 ---
 
@@ -26,26 +28,13 @@
   My Statistics
 </h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=tokyonight&hide_forks=true" alt="Top Languages" width="300px" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/github/followers/Vibuddha7728?label=Followers&style=for-the-badge&color=212121">
-  <img src="https://img.shields.io/github/stars/Vibuddha7728?label=Total%20Stars&style=for-the-badge&color=212121">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=tokyonight&hide_forks=true" alt="Top Languages" />
+  <br><br>
+ 
+</div>
 
 ---
 
@@ -57,31 +46,31 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 
 <br><br>
 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </div>
 
 ---
