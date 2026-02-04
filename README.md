@@ -31,19 +31,13 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</td>
-
-<td width="50%" align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <!-- Simple stable badges instead of images -->
+  ![Followers](https://img.shields.io/github/followers/Vibuddha7728?style=social)
+  ![Public Repos](https://img.shields.io/github/public-repos/Vibuddha7728?style=for-the-badge)
+  ![Top Language](https://img.shields.io/github/languages/top/Vibuddha7728?style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/Vibuddha7728?style=for-the-badge)
+</p>
 
 ---
 
