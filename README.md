@@ -18,8 +18,8 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ---
 
-- 🧑‍🎓 Undergraduate at **CINEC**
-- 🌱 Learning **Full Stack Development & Mobile App Development**
+- 🧑‍🎓 Undergraduate at **CINEC**  
+- 🌱 Learning **Full Stack Development & Mobile App Development**  
 - 📫 How to reach me: **vibuddha7728@gmail.com**
 
 ---
@@ -33,29 +33,20 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <table align="center">
 <tr>
-
 <td width="50%" align="center">
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vibuddha7728&show_icons=true&theme=dark"
-    alt="Vibuddha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <!-- Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vibuddha7728&theme=dark"
-    alt="Vibuddha's GitHub Streak" />
+  <!-- Reliable Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Vibuddha7728&theme=dark" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuddha7728&theme=dark&layout=compact&langs_count=10"
-    alt="Vibuddha's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10" alt="Top Languages" />
 </td>
-
 </tr>
 </table>
-
 
 ---
 
@@ -67,7 +58,6 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
@@ -93,7 +83,6 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-
 </div>
 
 ---
@@ -104,4 +93,4 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <a href="https://www.linkedin.com/in/vibuddha-vibodha-1317a6361/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-</p>meke my statics wada karana vidiht hadanna vidihk nd
+</p>
