@@ -42,7 +42,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <br><br>
   <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=Vibuddha7728&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=dark"
     alt="Vibuddha's GitHub Streak" />
 </td>
 
@@ -82,7 +82,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/deviconsicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 
 <br><br>
 
