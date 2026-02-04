@@ -35,7 +35,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <tr>
 <td width="50%" align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=  Vibuddha7728&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <br><br>
   <!-- Reliable Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Vibuddha7728&theme=dark" alt="GitHub Streak" />
