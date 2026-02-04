@@ -6,11 +6,11 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DH-0216&label=Profile%20views&color=0e75b6&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=vibuddha7728&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DH-0216&theme=monokai&no-bg=true&margin-w=15&no-frame=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=vibuddha7728&theme=monokai&no-frame=true&margin-w=15">
 </p>
 
 <img align="right" width="150px" height="150px"
@@ -20,13 +20,14 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🧑‍🎓 Undergraduate at **CINEC**
 - 🌱 Currently learning **Full Stack Development & Mobile App Development**
+- 💻 Interested in **Web, Mobile & UI/UX Design**
 - 📫 Reach me at **vibuddha7728@gmail.com**
 
 ---
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  My Statistics
+  My GitHub Statistics
 </h3>
 
 <br>
@@ -35,7 +36,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <tr border="none">
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vibuddha7728&theme=dark&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vibuddha7728&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibuddha7728&theme=dark" />
 
@@ -43,7 +44,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibuddha7728&theme=dark&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibuddha7728&theme=dark&layout=compact&langs_count=10" />
 
 </td>
 </tr>
@@ -72,19 +73,19 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </a>
 
-<a href="https://www.java.com" target="_blank">
+<a href="https://www.java.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </a>
 
-<a href="https://dart.dev" target="_blank">
+<a href="https://dart.dev/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
 </a>
 
-<a href="https://flutter.dev" target="_blank">
+<a href="https://flutter.dev/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </a>
 
@@ -108,7 +109,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </a>
 
-<a href="https://www.php.net" target="_blank">
+<a href="https://www.php.net/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </a>
 
@@ -132,12 +133,10 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </a>
 
-<!-- WordPress -->
 <a href="https://wordpress.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
 </a>
 
-<!-- Figma -->
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </a>
