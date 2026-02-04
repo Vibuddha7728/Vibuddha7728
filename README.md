@@ -13,14 +13,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vibuddha7728&theme=monokai&no-bg=true&margin-w=15&no-frame=true">
 </p>
 
-<img align="right" width="150px" height="150px"
-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width="150px" height="150px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ---
 
-- 🧑‍🎓 Undergraduate at **CINEC**  
-- 🌱 Learning **Full Stack Development & Mobile App Development**  
-- 📫 How to reach me: **vibuddha7728@gmail.com**
+- 🧑‍🎓 Undergraduate at **CINEC** - 🌱 Learning **Full Stack Development & Mobile App Development** - 📫 How to reach me: **vibuddha7728@gmail.com**
 
 ---
 
@@ -29,13 +26,17 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   My Statistics
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Vibuddha7728?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/public-repos/Vibuddha7728?style=for-the-badge" alt="Public Repos" />
-  <img src="https://img.shields.io/github/languages/top/Vibuddha7728?style=for-the-badge" alt="Top Language" />
-  <img src="https://img.shields.io/github/stars/Vibuddha7728?style=for-the-badge" alt="Stars" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
+<p align="center">
+  <br>
+  <img src="https://img.shields.io/github/followers/Vibuddha7728?label=Followers&style=for-the-badge&color=212121">
+  <img src="https://img.shields.io/github/stars/Vibuddha7728?label=Total%20Stars&style=for-the-badge&color=212121">
+</p>
 
 ---
 
