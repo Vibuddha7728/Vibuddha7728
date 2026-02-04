@@ -17,7 +17,10 @@
 
 ---
 
-- 🧑‍🎓 Undergraduate at **CINEC** - 🌱 Learning **Full Stack Development & Mobile App Development** - 📫 How to reach me: **vibuddha7728@gmail.com**
+- 🧑‍🎓 Undergraduate at **CINEC Campus**
+- 🌱 Learning **Full Stack Development & Mobile App Development**
+- 🚀 **WordPress & Web Developer**
+- 📫 How to reach me: **vibuddha7728@gmail.com**
 
 ---
 
