@@ -24,28 +24,28 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ---
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  My Statistics
+</h3>
+
+<br>
+
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <table align="center">
 <tr>
 <td align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark&count_private=true" />
 </td>
 
 <td align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10" />
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vibuddha7728&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
