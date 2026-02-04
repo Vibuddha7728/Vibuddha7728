@@ -31,30 +31,38 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <br>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  My GitHub Statistics
+</h3>
+
+<br>
+
 <table align="center">
 <tr>
 
 <td width="50%" align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Overall Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=Vibuddha7728&show_icons=true&theme=radical&count_private=true&hide_border=false"
     alt="Vibuddha's GitHub Stats" />
   <br><br>
-  <!-- Streak Stats -->
+  <!-- GitHub Streak Stats -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vibuddha7728&theme=radical&hide_border=false"
     alt="Vibuddha's GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
-  <!-- Top Languages -->
+  <!-- Top Languages Used -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=dark&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibuddha7728&theme=radical&layout=compact&langs_count=10"
     alt="Vibuddha's Top Languages" />
 </td>
 
 </tr>
 </table>
+
 
 
 ---
